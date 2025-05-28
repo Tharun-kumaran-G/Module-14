@@ -74,7 +74,7 @@ while not myQueue.isEmpty():
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/6dad2197-61a9-4450-9168-7459cd1fa6f9)
+![image](https://github.com/user-attachments/assets/61561283-ccc8-4428-9f70-84678f242e10)
 
 ### RESULT
 

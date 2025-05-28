@@ -45,7 +45,7 @@ print(de)
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/b7a271b4-b23b-49a4-9c40-15ec48ab15c6)
+![image](https://github.com/user-attachments/assets/3f668b19-390f-497f-ac12-360a0c75b135)
 
 ### RESULT
 

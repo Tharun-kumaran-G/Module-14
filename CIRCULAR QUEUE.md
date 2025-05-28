@@ -76,7 +76,7 @@ print(queue.items)
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/947738be-585a-4aaf-abe9-b857235b695b)
+![image](https://github.com/user-attachments/assets/a940889c-2324-4cd8-a1d6-238fe0688ff5)
 
 ### RESULT
 

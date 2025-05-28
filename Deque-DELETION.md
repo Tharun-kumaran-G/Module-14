@@ -43,7 +43,7 @@ print(de)
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/dc395ce6-c848-40c4-b323-4463a419fd7d)
+![image](https://github.com/user-attachments/assets/2b6c5e63-656f-47d4-975b-aeb9b8ab2054)
 
 ### RESULT
 
